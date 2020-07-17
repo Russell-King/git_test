@@ -1,0 +1,1 @@
+This is Russell's first git project! (not really, but following the tutorial)
